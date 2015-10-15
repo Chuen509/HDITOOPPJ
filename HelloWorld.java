@@ -14,9 +14,8 @@ class HelloWorld {
           System.out.print("My name is");
           System.out.print("Seattle Slew.");
 
-          System.out.println("How do you do? ");
-          System.out.println("My name is");
-          System.out.println("Seattle Slew.");
+          System.out.println("How old are you? ");
+          System.out.pritln("I am 5 years old");
 
      } 
 }
